@@ -70,5 +70,8 @@
     "valid-url": "^1.0.9",
     "watch": "^1.0.2",
     "yargs": "^7.0.2"
+  },
+  "publishConfig": {
+    "registry": "http://nexus.yamoney.ru/content/repositories/frontend"
   }
 }
