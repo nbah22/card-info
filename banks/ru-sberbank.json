@@ -2,13 +2,13 @@
   "name": "Сбербанк России",
   "nameEn": "Sberbank",
   "url": "https://www.sberbank.ru/",
-  "backgroundColor": "#1a9f29",
+  "backgroundColor": "#00995e",
   "backgroundColors": [
     "#1a9f29",
     "#0d7518"
   ],
   "backgroundLightness": "dark",
-  "logoStyle": "white",
+  "logoStyle": "colored",
   "text": "#fff",
   "prefixes": [
     "402333",

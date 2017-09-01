@@ -2,13 +2,13 @@
   "name": "ФК Открытие",
   "nameEn": "Otkritie FC",
   "url": "https://www.open.ru/",
-  "backgroundColor": "#00b3e1",
+  "backgroundColor": "#018ca5",
   "backgroundColors": [
     "#29c9f3",
     "#00b3e1"
   ],
   "backgroundLightness": "dark",
-  "logoStyle": "white",
+  "logoStyle": "colored",
   "text": "#fff",
   "prefixes": [
     "401173",

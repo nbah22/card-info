@@ -37,13 +37,13 @@
         "name": "Альфа-Банк",
         "nameEn": "Alfa-Bank",
         "url": "https://alfabank.ru/",
-        "backgroundColor": "#ef3124",
+        "backgroundColor": "#c22f24",
         "backgroundColors": [
           "#ef3124",
           "#d6180b"
         ],
         "backgroundLightness": "dark",
-        "logoStyle": "white",
+        "logoStyle": "colored",
         "text": "#fff",
         "alias": "ru-alfa",
         "country": "ru",
@@ -303,13 +303,13 @@
         "name": "ФК Открытие",
         "nameEn": "Otkritie FC",
         "url": "https://www.open.ru/",
-        "backgroundColor": "#00b3e1",
+        "backgroundColor": "#018ca5",
         "backgroundColors": [
           "#29c9f3",
           "#00b3e1"
         ],
         "backgroundLightness": "dark",
-        "logoStyle": "white",
+        "logoStyle": "colored",
         "text": "#fff",
         "alias": "ru-open",
         "country": "ru",
@@ -437,14 +437,14 @@
         "name": "Росбанк",
         "nameEn": "Rosbank bank",
         "url": "http://www.rosbank.ru/",
-        "backgroundColor": "#d3b9ba",
+        "backgroundColor": "#b72127",
         "backgroundColors": [
           "#d3b9ba",
           "#b1898b"
         ],
         "backgroundLightness": "light",
-        "logoStyle": "black",
-        "text": "#000",
+        "logoStyle": "colored",
+        "text": "#fff",
         "alias": "ru-rosbank",
         "country": "ru",
         "logoPng": "ru-rosbank.png",
@@ -520,13 +520,13 @@
         "name": "Сбербанк России",
         "nameEn": "Sberbank",
         "url": "https://www.sberbank.ru/",
-        "backgroundColor": "#1a9f29",
+        "backgroundColor": "#00995e",
         "backgroundColors": [
           "#1a9f29",
           "#0d7518"
         ],
         "backgroundLightness": "dark",
-        "logoStyle": "white",
+        "logoStyle": "colored",
         "text": "#fff",
         "alias": "ru-sberbank",
         "country": "ru",
@@ -634,14 +634,14 @@
         "name": "Тинькофф Банк",
         "nameEn": "Tinkoff Bank",
         "url": "https://www.tinkoff.ru/",
-        "backgroundColor": "#333",
+        "backgroundColor": "#ffe52b",
         "backgroundColors": [
           "#444",
           "#222"
         ],
         "backgroundLightness": "dark",
-        "logoStyle": "white",
-        "text": "#fff",
+        "logoStyle": "colored",
+        "text": "#000",
         "alias": "ru-tinkoff",
         "country": "ru",
         "logoPng": "ru-tinkoff.png",
@@ -785,7 +785,7 @@
         "name": "ВТБ 24",
         "nameEn": "VTB 24",
         "url": "https://www.vtb24.ru/",
-        "backgroundColor": "#c4cde4",
+        "backgroundColor": "#163b91",
         "backgroundColors": [
           "#c4cde4",
           "#9fabcc",
@@ -793,10 +793,11 @@
         ],
         "backgroundLightness": "light",
         "logoStyle": "colored",
-        "text": "#0a2972",
+        "text": "#fff",
         "alias": "ru-vtb24",
         "country": "ru",
-        "logoPng": "ru-vtb24.png"
+        "logoPng": "ru-vtb24.png",
+        "logoSvg": "ru-vtb24.svg"
       },
       "ru-yandex": {
         "name": "Яндекс.Деньги",

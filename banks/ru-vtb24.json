@@ -2,7 +2,7 @@
   "name": "ВТБ 24",
   "nameEn": "VTB 24",
   "url": "https://www.vtb24.ru/",
-  "backgroundColor": "#c4cde4",
+  "backgroundColor": "#163b91",
   "backgroundColors": [
     "#c4cde4",
     "#9fabcc",
@@ -10,7 +10,7 @@
   ],
   "backgroundLightness": "light",
   "logoStyle": "colored",
-  "text": "#0a2972",
+  "text": "#fff",
   "prefixes": [
     "406744",
     "406977",

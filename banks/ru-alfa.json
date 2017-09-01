@@ -2,13 +2,13 @@
   "name": "Альфа-Банк",
   "nameEn": "Alfa-Bank",
   "url": "https://alfabank.ru/",
-  "backgroundColor": "#ef3124",
+  "backgroundColor": "#c22f24",
   "backgroundColors": [
     "#ef3124",
     "#d6180b"
   ],
   "backgroundLightness": "dark",
-  "logoStyle": "white",
+  "logoStyle": "colored",
   "text": "#fff",
   "prefixes": [
     "408396",

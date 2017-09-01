@@ -2,14 +2,14 @@
   "name": "Росбанк",
   "nameEn": "Rosbank bank",
   "url": "http://www.rosbank.ru/",
-  "backgroundColor": "#d3b9ba",
+  "backgroundColor": "#b72127",
   "backgroundColors": [
     "#d3b9ba",
     "#b1898b"
   ],
   "backgroundLightness": "light",
-  "logoStyle": "black",
-  "text": "#000",
+  "logoStyle": "colored",
+  "text": "#fff",
   "prefixes": [
     "400812",
     "400814",
