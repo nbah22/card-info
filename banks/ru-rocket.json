@@ -1,0 +1,16 @@
+{
+  "name": "Рокетбанк",
+  "nameEn": "Rocketbank",
+  "url": "https://rocketbank.ru/",
+  "backgroundColor": "#1e1f24",
+  "backgroundColors": [
+    "#1c1d20",
+    "#1e1f24"
+  ],
+  "backgroundLightness": "dark",
+  "logoStyle": "white",
+  "text": "#fff",
+  "prefixes": [
+    "532130"
+  ]
+}
