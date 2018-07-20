@@ -446,7 +446,8 @@
         "logoStyle": "white",
         "text": "#fff",
         "alias": "ru-rocket",
-        "country": "ru"
+        "country": "ru",
+        "logoPng": "ru-rocket.png"
       },
       "ru-rosbank": {
         "name": "Росбанк",
