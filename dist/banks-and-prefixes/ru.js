@@ -433,6 +433,22 @@
         "logoPng": "ru-rgs.png",
         "logoSvg": "ru-rgs.svg"
       },
+      "ru-rocket": {
+        "name": "Рокетбанк",
+        "nameEn": "Rocketbank",
+        "url": "https://rocketbank.ru/",
+        "backgroundColor": "#1e1f24",
+        "backgroundColors": [
+          "#1c1d20",
+          "#1e1f24"
+        ],
+        "backgroundLightness": "dark",
+        "logoStyle": "white",
+        "text": "#fff",
+        "alias": "ru-rocket",
+        "country": "ru",
+        "logoPng": "ru-rocket.png"
+      },
       "ru-rosbank": {
         "name": "Росбанк",
         "nameEn": "Rosbank bank",
@@ -2290,7 +2306,7 @@
       "531858": "ru-uralsib",
       "531943": "ru-psb",
       "532058": "ru-rosbank",
-      "532130": "ru-open",
+      "532130": "ru-rocket",
       "532184": "ru-mkb",
       "532186": "ru-spb",
       "532301": "ru-open",
